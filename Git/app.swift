@@ -8,5 +8,4 @@ print("this changes maked on bug-fix branch for master")
 
 print("this changes added on branch 'new-api")
 
-print("this changes added from cloned repository & here also add changes")
 
